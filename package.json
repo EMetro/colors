@@ -1,0 +1,21 @@
+{
+  "name": "@emetro/colors",
+  "version": "0.0.1",
+  "description": "EMetro colors",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMetro/colors.git"
+  },
+  "keywords": ["EMetro" , "colors" , "EMetro colors" , "Metro4 colors" , "Metro4"],
+  "author": {
+    "name": "Morteza Jamali" ,
+    "email": "mortezajamali4241@gmail.com" ,
+    "url": "https://morteza-jamali.github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EMetro/colors/issues"
+  },
+  "homepage": "https://github.com/EMetro/colors#readme"
+}
